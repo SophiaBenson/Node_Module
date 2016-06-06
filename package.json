@@ -1,0 +1,25 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "class example",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "@sophia"
+  },
+  "keywords": [
+    "feather",
+    "missiles",
+    "clawmores",
+    "seednades"
+  ],
+  "author": "@sophia",
+  "license": "ISC"
+}
